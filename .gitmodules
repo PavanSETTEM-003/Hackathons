@@ -1,0 +1,6 @@
+[submodule "JP_Morgan_Code_For_Good_2023"]
+	path = JP_Morgan_Code_For_Good_2023
+	url = https://github.com/cfghyd23/Team-16.git
+[submodule "Tally_CodeBrewers_2023"]
+	path = Tally_CodeBrewers_2023
+	url = https://github.com/anilkumar-011/Tally_CodeBrewers_2023.git
