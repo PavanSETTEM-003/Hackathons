@@ -4,3 +4,7 @@
 [submodule "Tally_CodeBrewers_2023"]
 	path = Tally_CodeBrewers_2023
 	url = https://github.com/anilkumar-011/Tally_CodeBrewers_2023.git
+[submodule "Techolution_2023"]
+	path = Techolution_2023
+	url = https://github.com/anilkumar-011/Digital-hiring-demo-platform.git
+
